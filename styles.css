@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .nav-bar{
+    background-color: #333;
+    color: #fff;
+  }
+  .nav-bar {
+    background-color: #333;
+  }
+  
+  .nav-bar a {
+    color: white;
+  }
+  
+  .nav-bar a:hover {
+    color: #f1f1f1;
+  }
+  .hero-section {
+    color: #f1f1f1;
+    background-color: #61677A;
+    padding: 100px 0;
+  }
+  
+  .hero-section h1 {
+    font-size: 40px;
+  }
+  
+  .services-section {
+    padding: 80px 0;
+    background-color: #D8D9DA;
+  }
+  
+  .service-item {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .service-item i {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-section {
+    background-color: #FFF6E0;
+    padding: 80px 0;
+    color: black;
+  }
+  
+  .footer-section {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+
+.featured-jobs-section {
+    padding: 80px 0;
+  }
+  
+  .job-item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+
+  
+  
